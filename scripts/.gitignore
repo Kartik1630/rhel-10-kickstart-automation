@@ -1,0 +1,14 @@
+*.iso
+*.img
+*.vmdk
+*.vdi
+
+*.log
+*.tmp
+*.bak
+
+*.pem
+*.key
+.env
+
+__pycache__/
